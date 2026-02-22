@@ -30,6 +30,6 @@ Examples:
 * DNS tools
 * Web fingerprinting utilities
 
-## Always remember that even if you are only studying it is not allowed to do any kind of technique without a formal authorization, do you labs on your on private devices and network
+## Always remember that even if you are only studying it is not allowed to do any kind of technique without a formal authorization, do you labs on your own private devices and network
 
 These tools must always be used responsibly and only against authorized systems.
